@@ -1,17 +1,22 @@
 # Rockhy1324
-+# Hi there, I'm [Rock Khyshnert]! 👋
-+
-+## 🎓 About Me
-15-year-old aspiring programmer currently mastering computer science fundamentals through Harvard's CS50 course. Passionate about building interactive applications and planning to dive into AI/Machine Learning after completing my foundation.
-+
-+##  Currently Learning
-+-  **CS50**: Almost done! Flask course starting next week
-+-  **JavaScript**: Building interactive web applications
-+-  **Programming Fundamentals**: C, Python, SQL, HTML, CSS
-+
-+## 🛠️ Tech Stack
-+
-+**Languages:**
+
+## 👋 Hi, I'm Rock Khyshnert!
+
+Passionate 15-year-old programmer building a rock-solid foundation through Harvard's CS50. Fueled by curiosity, driven by impact—ready to explore AI and machine learning soon!
+
+---
+
+## 🎓 Currently Learning
+- 📘 **CS50** (Week 8 complete – Flask starts next week!)
+- 💻 **JavaScript** – Making dynamic and interactive websites
+- 🧠 **Programming Basics** – C, Python, SQL, HTML, CSS
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Languages
+
 +```
 +C          ████████████████████████████████████████ 90%
 +Python     ███████████████████████████████████████  85%
@@ -20,59 +25,75 @@
 +JavaScript ██████████████████████████████           75% 
 +```
 +
-+**Tools & Technologies:**
-+- **Editor**: VS Code
-+- **Version Control**: Git & GitHub
-+- **Databases**: SQLite
-+- **Coming Soon**: Flask, NumPy, Pandas
-+
-+## 🌟 Featured Projects
-+
-+### 🎮 [JavaScript Number Guessing Game](link-to-repo)
-+Interactive game with user feedback and replay functionality
-+- **Tech**: HTML, CSS, JavaScript
-+- **Features**: Random number generation, attempt tracking, dynamic UI
-+
-+### 📚 [CS50 Journey](link-to-repo)
-+Complete documentation of my Harvard CS50 experience
-+- **Progress**: 8/10 weeks completed
-+- **Languages Covered**: C → Python → SQL → Web Development
-+
-+### 🌐 [Web Development Portfolio](link-to-repo)
-+Collection of my best web projects and experiments
-+- **Focus**: Frontend development and user interaction
-+
-+## 📊 GitHub Activity
-+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-+
-+## 🎯 2025 Learning Goals
-+- [x] Master C programming fundamentals
-+- [x] Build solid Python foundation
-+- [x] Understand database concepts with SQL
-+- [x] Create interactive web pages
-+- [ ] **Complete CS50 ** (90% done!)
-+- [ ] **Master Flask for backend development**
-+- [ ] **Build 5 impressive web applications**
-+- [ ] **Begin AI/Machine Learning journey**
-+
-+## 🚀 What's Next?
-+**Immediate:** Finishing CS50 
-+**Short-term:** Building full-stack web applications  
-+**Long-term:** Diving into AI/ML after solid programming foundation  
-+
-+## 🎮 Fun Facts
-+- Started programming at 15 
-+- Love building interactive games and web applications
-+- Planning to specialize in AI after mastering the fundamentals
-+- Believe in learning by building real projects
-+
-+## 📫 Let's Connect!
-+- 📧 **Email**: khyshnertrock@gmail.com
-+
-+
-+---
-+
-+> *"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."* - Building my foundation one line of code at a time! 🚀
+
+### 🔧 Tools & Technologies
+- Editor: VS Code  
+- Version Control: Git & GitHub  
+- Database: SQLite  
+- On Deck: Flask, NumPy, Pandas  
+
+---
+
+## 🌟 Featured Projects
+
+### 🎮 [JavaScript Number Guessing Game](link-to-repo)
+A browser-based guessing game with random number logic and score tracking  
+**Tech Stack**: HTML, CSS, JavaScript  
+**Features**: UI feedback, replay system, score counter
+
+### 📚 [CS50 Journey](link-to-repo)
+My documented learning journey through Harvard’s CS50  
+**Progress**: 8/10 weeks done  
+**Languages**: C → Python → SQL → Web Dev
+
+### 🌐 [Web Development Portfolio](link-to-repo)
+A live showcase of frontend experiments and web builds  
+**Focus**: UX design, responsiveness, animations
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rocky1324&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 2025 Goals Checklist
+- [x] Master C programming
+- [x] Solid Python foundation
+- [x] SQL database fundamentals
+- [x] Interactive web pages
+- [ ] Finish CS50 (✅ 90% done)
+- [ ] Learn Flask & backend dev
+- [ ] Build 5 showcase web apps
+- [ ] Kick off AI/ML adventure
+
+---
+
+## 🚀 What’s Next?
+- 🔹 Immediate: CS50 final project
+- 🔸 Near Future: Full-stack web apps
+- 🌌 Long-Term: AI projects with real-world impact
+
+---
+
+## 🎮 Fun Facts
+- Started coding at age 15  
+- Love creating games and UI-rich websites  
+- Dreaming of AI breakthroughs  
+- Learn by building—always hands-on!
+
+---
+
+## 📫 Connect With Me
+**Email**: khyshnertrock@gmail.com
+
+---
+
+> *"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."*  
+> Building my legacy one commit at a time. 🌍💻🚀
+
+⭐ Star my repos if they spark your curiosity!
+Building my foundation one line of code at a time! 🚀
 +
 +⭐ **Star some repositories if you find my projects interesting!**
 EOF
