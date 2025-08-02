@@ -51,6 +51,7 @@ My documented learning journey through Harvard’s CS50
 ### 🌐 [Web Development Portfolio](link-to-repo)
 A live showcase of frontend experiments and web builds  
 **Focus**: UX design, responsiveness, animations
+
 **status**: soon
 
 
