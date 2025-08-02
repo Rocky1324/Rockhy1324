@@ -38,12 +38,12 @@ Passionate 15-year-old programmer building a rock-solid foundation through Harva
 
 ## 🌟 Featured Projects
 
-### 🎮 [JavaScript Number Guessing Game](link-to-repo)
+### 🎮 [JavaScript Number Guessing Game](https://github.com/Rocky1324/javascript-mastery)
 A browser-based guessing game with random number logic and score tracking  
 **Tech Stack**: HTML, CSS, JavaScript  
 **Features**: UI feedback, replay system, score counter
 
-### 📚 [CS50 Journey](link-to-repo)
+### 📚 [CS50 Journey](https://github.com/Rocky1324/cs50-journey)
 My documented learning journey through Harvard’s CS50  
 **Progress**: 8/10 weeks done  
 **Languages**: C → Python → SQL → Web Dev
@@ -51,6 +51,7 @@ My documented learning journey through Harvard’s CS50
 ### 🌐 [Web Development Portfolio](link-to-repo)
 A live showcase of frontend experiments and web builds  
 **Focus**: UX design, responsiveness, animations
+**status**: soon
 
 ---
 
