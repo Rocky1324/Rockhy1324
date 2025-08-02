@@ -19,8 +19,11 @@ Passionate 15-year-old programmer building a rock-solid foundation through Harva
 
 +```
 ████████████████████████████████████████ 90% Python
+
 ███████████████████████████████████████ 85% SQL 
+
 ████████████████████████████████████ 80% HTML/CSS
+
 ██████████████████████████████ 75% JavaScript
 +```
 +
