@@ -75,7 +75,6 @@ A live showcase of frontend experiments and web builds
 ---
 
 ## 🚀 What’s Next?
-- 🔹 Immediate: CS50 final project
 - 🔸 Near Future: Full-stack web apps
 - 🌌 Long-Term: AI projects with real-world impact
 
