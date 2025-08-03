@@ -2,12 +2,12 @@
 
 ## 👋 Hi, I'm Rock Khyshnert!
 
-Passionate 15-year-old programmer building a rock-solid foundation through Harvard's CS50. Fueled by curiosity, driven by impact—ready to explore AI and machine learning soon!
+Passionate 15-year-old programmer building a rock-solid foundation. Fueled by curiosity, driven by impact—ready to explore AI and machine learning soon!
 
 ---
 
 ## 🎓 Currently Learning
-- 📘 **CS50** (Week 8 complete – Flask starts next week!)
+- 📘 **CS50**
 - 💻 **JavaScript** – Making dynamic and interactive websites
 - 🧠 **Programming Basics** – C, Python, SQL, HTML, CSS
 
