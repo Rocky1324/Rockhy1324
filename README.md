@@ -7,7 +7,6 @@ Passionate 15-year-old programmer building a rock-solid foundation. Fueled by cu
 ---
 
 ## 🎓 Currently Learning
-- 📘 **CS50**
 - 💻 **JavaScript** – Making dynamic and interactive websites
 - 🧠 **Programming Basics** – C, Python, SQL, HTML, CSS
 
@@ -42,11 +41,6 @@ Passionate 15-year-old programmer building a rock-solid foundation. Fueled by cu
 A browser-based guessing game with random number logic and score tracking  
 **Tech Stack**: HTML, CSS, JavaScript  
 **Features**: UI feedback, replay system, score counter
-
-### 📚 [CS50 Journey](https://github.com/Rocky1324/cs50-journey)
-My documented learning journey through Harvard’s CS50  
-**Progress**: 8/10 weeks done  
-**Languages**: C → Python → SQL → Web Dev
 
 ### 🌐 [Web Development Portfolio](link-to-repo)
 A live showcase of frontend experiments and web builds  
