@@ -50,6 +50,8 @@ A live showcase of frontend experiments and web builds
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rocky1324&show_icons=true&theme=tokyonight&hide_border=true)
 [![Rocky1324's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rocky1324&theme=dracula)](https://github.com/Rocky1324/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rocky1324&theme=onedark&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
