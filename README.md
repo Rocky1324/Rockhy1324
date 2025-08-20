@@ -60,8 +60,8 @@ A live showcase of frontend experiments and web builds
 - [x] Solid Python foundation
 - [x] SQL database fundamentals
 - [x] Interactive web pages
-- [ ] Finish CS50 (✅ 90% done)
-- [ ] Learn Flask & backend dev
+- [x] Finish CS50
+- [x] Learn Flask & backend dev
 - [ ] Build 5 showcase web apps
 - [ ] Kick off AI/ML adventure
 
