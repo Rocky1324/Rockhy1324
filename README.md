@@ -14,16 +14,12 @@ Passionate 15-year-old programmer building a rock-solid foundation. Fueled by cu
 
 ## 🛠️ Tech Stack
 
-### 🌐 Languages
-
-
-████████████████████████████████████████ 90% Python
-
-███████████████████████████████████████ 85% SQL 
-
-████████████████████████████████████ 80% HTML/CSS
-
-██████████████████████████████ 75% JavaScript
+### 🌐 Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 
 +
 
