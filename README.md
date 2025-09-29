@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Rock Khyshnert!
 
-Passionate **15-year-old programmer** building a rock-solid foundation.  
-Fueled by curiosity, driven by impact—ready to explore **AI and Machine Learning** soon! 🚀
+I'm a **15-year-old aspiring software engineer** focused on building a solid foundation in computer science.  
+Curiosity drives me, discipline shapes me — and my long-term goal is to contribute to **AI, Machine Learning, and impactful tech projects**. 🚀  
 
 ---
 
-## 🎓 Currently Learning
-- 💻 **JavaScript** – Making dynamic and interactive websites  
-- 🧠 **Programming Basics** – C, Python, SQL, HTML, CSS  
-- 🌍 Exploring **Flask, Pandas, NumPy** for backend & data  
+##  Currently Learning
+-  **Web Development** – Building interactive sites with HTML, CSS, and JavaScript  
+-  **Python & Flask** – Backend development and databases (SQLite, SQL)  
+-  **Computer Science Fundamentals** – Algorithms, C programming, data structures  
+-  **Data Tools** – Exploring Pandas and NumPy for data analysis  
 
 ---
 
@@ -72,7 +73,6 @@ A live showcase of frontend experiments and projects.
 - [x] Finish CS50  
 - [x] Learn Flask & backend development  
 - [ ] Build 5 showcase web apps  
-- [ ] Kick off AI/ML journey  
 
 ---
 
