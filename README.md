@@ -84,6 +84,24 @@ A live showcase of frontend experiments and projects.
 
 ---
 
+## Hackathons
+
+### 🎵 [Harmony Hub – No JavaScript Web Challenge (Hackathon 2025)](https://github.com/Rocky1324/music-web-css-only)
+A pure HTML & CSS project built for a **No JavaScript Web Design Hackathon**.  
+Focused on creativity, accessibility, and CSS-only interactivity (including a dark mode toggle).
+
+**Highlights:**
+- Built entirely without JavaScript — animations, transitions, and interactions powered by CSS only  
+- Implemented a fully responsive layout and dark mode toggle using `:checked` selector  
+- Learned advanced CSS techniques: gradients, animations, and semantic HTML  
+
+**Inspiration:**  
+Music connects people across cultures — this project celebrates that connection through design and code.
+
+🗓️ *October 2025* | 🌐 [Live Demo](https://rocky1324.github.io/music-web-css-only) | 💻 [Source Code](https://github.com/Rocky1324/music-web-css-only)
+
+---
+
 ## 📫 Connect With Me
 📧 **Email**: khyshnertrock@gmail.com  
 
